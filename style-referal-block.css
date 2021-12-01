@@ -1,0 +1,62 @@
+@media (min-width: 320px) {
+    .credeo-referal-block {
+        --cube: 1; 
+        --size: 4;
+    }
+}
+
+@media (min-width: 350px) {
+    .credeo-referal-block {
+        --cube: 1; 
+        --size: 3.5;
+    }
+}
+
+@media (min-width: 380px) {
+    .credeo-referal-block {
+        --cube: 1; 
+        --size: 3.25;
+    }
+}
+
+@media (min-width: 441px) {
+    .credeo-referal-block {
+        --cube: 1; 
+        --size: 4.5;
+    }
+}
+
+@media (min-width: 500px) {
+    .credeo-referal-block {
+        --cube: 1; 
+        --size: 4;
+    }
+}
+
+@media (min-width: 550px) {
+    .credeo-referal-block {
+        --cube: 1; 
+        --size: 3.5;
+    }
+}
+
+@media (min-width: 641px) {
+    .credeo-referal-block {
+        --cube: 1; 
+        --size: 3;
+    }
+}
+
+@media (min-width: 961px) {
+    .credeo-referal-block {
+        --cube: 1; 
+        --size: 3.75;
+    }
+}
+
+@media (min-width: 1201px) {
+    .credeo-referal-block {
+        --cube: 1; 
+        --size: 3.25;
+    }
+}
